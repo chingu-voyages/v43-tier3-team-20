@@ -1,0 +1,149 @@
+* {
+    border: solid 1px blue;
+}
+
+body {
+    margin: 0;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.label-1-container {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    height: 8rem;
+}
+
+.cover-container {
+    display: flex;
+    align-items: center;
+}
+
+.label-2-container {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    height: 8rem;
+}
+
+.cover-svg {
+    display: flex;
+    float: left;
+    align-self: center;
+}
+
+.cover-logo {
+    display: flex;
+    float: right;
+    align-self: center;
+}
+
+.last-updated-container {
+    margin-left: auto;
+}
+
+.label-3-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+    width: 22.5%;
+    padding: 2rem;
+}
+
+.spend-logo-container {
+    display: flex;
+    width: 100%;
+}
+
+.spend-logo {
+    display: flex;
+    align-self: center;
+    margin: 1rem;
+}
+
+.spend-ln-text-container {
+    display: flex;
+    align-self: center;
+}
+
+.spending-management-container {
+    width: 100%;
+}
+
+.landing-page-dashboard-container {
+    width: 100%;
+}
+
+.ten-sections-btn {
+    width: 25%;
+    background: #7C5CFC;
+    color: #FFF;
+    border-radius: 10px;
+}
+
+.bi-check {
+    background: #7C5CFC
+}
+
+.bullet-points {
+    display: flex;
+    flex-wrap: row;
+    width: 100%;
+}
+
+.checkmark-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bullet-points-container-1 {
+    display: flex;
+    flex-direction: column;
+
+    margin-right: 1rem;
+}
+
+.checkmark-text-container {
+    align-self: center;
+}
+
+
+.label-4-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1A202C;
+    color: #FFF;
+    width: 45%;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.p-logo-container {
+    position: relative;
+}
+
+.vector-p {
+    background: #000;
+    display: block;
+}
+
+.vector-p-bottom {
+    position: absolute;
+    left: 0%;
+    right: 72.24%;
+    top: 78.27%;
+    bottom: 0%;
+}
